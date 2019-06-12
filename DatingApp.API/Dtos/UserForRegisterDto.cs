@@ -1,6 +1,6 @@
 namespace DatingApp.API.Dtos
 {
-    public class UserForRegister
+    public class UserForRegisterDto
     {
         //public int MyProperty { get; set; }
         public string UserName { get; set; }
